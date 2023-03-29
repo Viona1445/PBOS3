@@ -1,0 +1,6 @@
+Viona_4001_1,4001,Viona,Magh,19 Tahun
+Sahriah_4002_2,4002,Sahriah,Pusing,20 Tahun
+Cici_4003_3,4003,Cici,DBD,25 Tahun
+Dhea_4004_4,4004,Dhea,Muntaber,30 Tahunssss_9000_1,9000,ssss,sqsqq,89
+dodo_2004_1,2004,dodo,demam,nana
+dodo_2001_1,2001,dodo,Batuk,18 Tahun
